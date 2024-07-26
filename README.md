@@ -4,15 +4,15 @@ A web-based platform for analyzing and visualizing coffee metabolite data, allow
 **How to Run the Frontend**
 ----
 ```
-npm install
-npm run dev
+yarn install
+yarn run dev
 ```
 
 
 **How to Run the Backend**
 ----
 ```
-npm install
+yarn install
 change env-example to .env according to your environment
-npm run start
+yarn run start
 ```
